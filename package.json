@@ -403,5 +403,8 @@
       "pre-commit": "npm run lint",
       "commit-msg": "validate-commit-msg"
     }
+  },
+  "publishConfig": {
+    "registry": "http://registry.npm.alibaba-inc.com"
   }
 }
